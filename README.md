@@ -1,1 +1,1 @@
-# SQL---IMDb-Movie-Analysis
+# IMDb-Movie-Analysis using SQL
