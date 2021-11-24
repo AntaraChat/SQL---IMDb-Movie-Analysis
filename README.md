@@ -7,3 +7,4 @@ Steps to follow to use the analysis sql file:
 - Import the sql text file "IMDB+dataset+import". 
 - Next import the sql file "IMDB+question" .
 - Continue with your additional analysis(optional).
+![image](https://user-images.githubusercontent.com/81476425/143203915-b1f43227-61b9-4976-976d-7eeae76ab9f0.png)
